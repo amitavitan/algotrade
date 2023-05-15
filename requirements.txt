@@ -1,0 +1,4 @@
+pandas
+yfinance==0.1.45
+streamlit==0.48.1
+lxml==4.4.1
